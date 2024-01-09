@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+}
+#grid{
+    width: 406px;
+    height: 304px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: space-between;
+}
